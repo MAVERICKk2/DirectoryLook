@@ -1,0 +1,1 @@
+start /b java -cp ".;javax.mail.jar" Watcher
